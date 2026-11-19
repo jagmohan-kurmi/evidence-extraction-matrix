@@ -1,0 +1,1 @@
+{"schema":{"fields":[{"name":"design","required":true},{"name":"sample_size","required":true}]},"records":[{"study_id":"study-1","fields":{"design":{"value":"cohort","page":"4","citation":"Author 2024","quote":"Participants were followed..."},"sample_size":{"value":"120","page":"5","citation":"Author 2024","quote":"The sample comprised 120..."}}}]}
